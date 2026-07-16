@@ -1,28 +1,47 @@
-# 👋 Hello！
+# Hi, I'm skylar-deepmind 👋
 
-Welcome to my corner of GitHub! I’m **skylar-deepmind**, a student with a passion for building, breaking, and fixing things in **Java** (sometimes all at once).
+Welcome to my corner of GitHub!
 
-## 🚀 What I’m Up To
-- Exploring algorithms and data structures [🔗](https://github.com/skylar-deepmind/DataStructure)
-- Decoding design patterns [🔗](https://github.com/skylar-deepmind/DesignPattern)
-- Building tools for object detection [🔗](https://github.com/skylar-deepmind/Tools-For-Object-Detection)
-- Keeping my head in the clouds [🔗](https://github.com/skylar-deepmind/Head-in-the-clouds)
-- Checking out the latest in RT-DETR [🔗](https://github.com/skylar-deepmind/RT-DETR)
+I'm a student learning and practicing **web development**, with a focus on turning ideas into things people can actually use.
 
-## 📚 When Not Coding…
-You’ll probably find me lost in a book, searching for new ideas or just a good story.
+To me, code is more than a way to implement features or solve technical problems. It is also a medium for expressing ideas, shaping designs, and transforming imagination into real experiences.
 
-## 🎉 Fun Facts
-- Java is my playground
-- I believe every bug is just a misunderstood feature
+I hope to keep learning through building and create thoughtful tools that can be useful to more people.
+
+## 🚧 Currently Building
+
+### [Naoii](https://github.com/skylar-deepmind/Naoii)
+
+My current project and learning playground—where I experiment, iterate, and turn ideas into working features.
+
+## 🌱 What I'm Exploring
+
+* Building practical and thoughtful web applications
+* Turning early ideas into clear and usable products
+* Learning through experimentation and real-world projects
+* Exploring the connection between technology, design, and people
+* Creating tools that make something easier, better, or more enjoyable
+
+## 🎧 Beyond Code
+
+When I'm away from the keyboard, I enjoy:
+
+* Listening to music
+* Learning about economics and history
+* Reading books across different subjects and genres
 
 ---
 
-> “Code, read, repeat!”
+> “Write code. Shape ideas. Build something useful.”
 
-Thanks for stopping by—feel free to explore my projects or drop a star if you like what you see! 😄
+Thanks for stopping by. Feel free to explore my work and follow along as I continue learning and building.
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-![skylar-deepmind's GitHub stats](https://github-readme-stats.vercel.app/api?username=skylar-deepmind&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skylar-deepmind&layout=compact&theme=transparent)
+<p align="center">
+  <img src="./profile-summary-card-output/github/0-profile-details.svg" alt="GitHub profile details" width="100%" />
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/github/3-stats.svg" alt="GitHub stats" width="49%" />
+</p>
